@@ -39,12 +39,10 @@ Wykonaj przyrównani sekwencji z poprzedniego zadania używając programu MAFFT 
 ### Zad. 3
 
 1. Podpisz rysunek (rodzaj drzewa i co jest na nim zaznaczone)
-   > Przeczytaj: [Tree terminology](https://www.ncbi.nlm.nih.gov/Class/NAWBIS/Modules/Phylogenetics/phylo7.html).
 
 <p align="center"><img src="./images/tree01.png" width="400"></p>
 
 2. Na czym polega różnica w interpretacji między drzewem nieukorzenionym a ukorzenionym?
-   > Przeczytaj: [The difference between rooted and un-rooted phylogenetic tree](https://brainly.in/question/3769990).
 
 ### Zad. 4
 
@@ -115,7 +113,7 @@ Które drzewo najodpowiedniej opisuje relację między powyższymi gatunkami.
 
 
 ## MEGA
-Zainstaluj program MEGA (Molecular Evolutionary Genetic Analysis): [https://www.megasoftware.net](https://www.megasoftware.net).
+Program MEGA (Molecular Evolutionary Genetic Analysis): [https://www.megasoftware.net](https://www.megasoftware.net).
 
 ### Zad. 8 - Pochodzenie niedźwiedzia polarnego i pandy wielkiej.
 
@@ -176,10 +174,6 @@ Sekwencje z poprzedniego zadania należą do żyjących gatunków niedźwiedzi. 
 
 
 ### Zad. 10 (Ocena wiarygodności drzewa: metoda *bootstrap*)
-> Bootstrap jest metodą statystyczną, która opiera się na tworzeniu dużej liczby replik z niewielkimi zmianami w danych początkowych. Drzewa skonstruowane ze zbiorów danych z wprowadzonymi losowymi zmianami dają rozkład topologii drzew, który umożliwia statystyczną ocenę każdego pojedynczego kladu z danego drzewa.
-> Wykorzystanie metody bootstrap do oceny wiarygności skonstruowanego wcześniej drzewa filogenetycznego obejmuje wygenerowanie wielu dopasowań sekwencji (zazwyczaj między 100 a 1000). Dla każdego z wygenerowanych dopasowań jest wyznaczane drzewo filogenetyczne. W zbiorze takich drzew niektóre drzewa będą miały taką samą topologię, jak drzewo oryginalne. Inne będą się od niego różnić. Każdemu z węzłów w oryginalnym drzewie jest następnie przypisywana tzw. wartość bootstrap równa odsetkowi wygenerowanych drzew, w których obserwowano dokładnie takie samo rozgałęzienie linii ewolucyjnych.
-> Nie ma ustalonej reguły, która mówiłaby jak duża musi być wartość bootstrap, aby uznać odpowiedni węzeł drzewa za wiarygodny, a tym samym uznać, że gatunki, których linie ewolucyjne się w nim zbiegają, tworzą klad. W praktyce przyjmuje się, że wartości powyżej 70% takie twierdzenie usprawiedliwiają.
-
 Utwórz drzewo sekwencji niedźwiedzi z poprzedniego zadania korzystając z algorytmu Neighbor-Joining i zaznaczając `Test of Phylogeny`: `Bootstrap method` (No. of Boostrap Replications): `1000`.
 
 1. Co oznaczają liczby znajdujące się na węzłach uzyskanego drzewa?
