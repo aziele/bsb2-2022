@@ -27,7 +27,7 @@ clustalo -i myoglobins.fasta --outfmt=clu -o myoglobins.aln
 
 
 ### Zad. 2
-Wykonaj przyrównani sekwencji z poprzedniego zadania używając programu MAFFT i zapisując wynik w formacie `clustal` (`mafft -h`). Uzyskane przyrównanie umieść w sprawozdaniu.
+Wykonaj przyrównani sekwencji z poprzedniego zadania używając programu MAFFT i zapisując wynik w formacie *clustal* (`mafft -h`). Uzyskane przyrównanie umieść w sprawozdaniu.
 
 1. Podaj użyte polecenie.
 2. Opisz krótko czym różnią się przyrównania uzyskane programem ClustalOmega i MAFFT.
@@ -113,7 +113,7 @@ Które drzewo najodpowiedniej opisuje relację między powyższymi gatunkami.
 
 
 ## MEGA
-Program MEGA (Molecular Evolutionary Genetic Analysis): [https://www.megasoftware.net](https://www.megasoftware.net).
+Program MEGA (Molecular Evolutionary Genetic Analysis) jest zainstalowany na komputerach w sali ćwiczeniowej S2. Strona programu: [https://www.megasoftware.net](https://www.megasoftware.net).
 
 ### Zad. 8 - Pochodzenie niedźwiedzia polarnego i pandy wielkiej.
 
