@@ -1,6 +1,6 @@
-## Bioinformatyka
+## BSB2
 
-Bioinformatyka, I rok
+Bioinformatyka Sekwencji Hiologicznych II
 
 #### Plan zajęć
 
