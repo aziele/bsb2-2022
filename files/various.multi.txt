@@ -1,0 +1,1154 @@
+ID   AY193835   standard; mRNA; PLN; 594 BP.
+XX
+AC   AY193835;
+XX
+SV   AY193835.1
+XX
+DT   20-FEB-2003 (Rel. 74, Created)
+DT   20-FEB-2003 (Rel. 74, Last updated, Version 1)
+XX
+DE   Vigna unguiculata leghaemoglobin (lhb) mRNA, complete cds.
+XX
+KW   .
+XX
+OS   Vigna unguiculata (cowpea)
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons; rosids;
+OC   eurosids I; Fabales; Fabaceae; Papilionoideae; Phaseoleae; Vigna.
+XX
+RN   [1]
+RP   1-594
+RA   Mann A.J., Smith P.M.C., Bussell J.D.;
+RT   "Vulhb mRNA from cowpea encoding leghaemoglobin";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-594
+RA   Mann A.J., Smith P.M.C., Bussell J.D.;
+RT   ;
+RL   Submitted (10-DEC-2002) to the EMBL/GenBank/DDBJ databases.
+RL   Botany, University of Western Australia, 35 Stirling Highway, Crawley, WA
+RL   6009, Australia
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..594
+FT                   /db_xref="taxon:3917"
+FT                   /mol_type="mRNA"
+FT                   /organism="Vigna unguiculata"
+FT                   /cultivar="Vita 3"
+FT   CDS             38..475
+FT                   /codon_start=1
+FT                   /db_xref="GOA:Q540F0"
+FT                   /db_xref="InterPro:IPR000971"
+FT                   /db_xref="InterPro:IPR001032"
+FT                   /db_xref="InterPro:IPR012292"
+FT                   /db_xref="UniProtKB/TrEMBL:Q540F0"
+FT                   /gene="lhb"
+FT                   /product="leghaemoglobin"
+FT                   /protein_id="AAO40251.1"
+FT                   /translation="MVAFSDKQEGLVNGAYEAFKADIPKYSVVFYTTILEKAPAAKNLF
+FT                   SFLANGVDATNPKLTGHAEKLFGLVRDSAAQLRASGGVVADAALGAVHSQKAVNDAQFV
+FT                   VVKEALVKTLKEAVGDKWSDELGTAVELAYDELAAAIKKAY"
+FT   polyA_signal    560..565
+FT                   /gene="lhb"
+FT   polyA_site      594
+FT                   /gene="lhb"
+XX
+SQ   Sequence 594 BP; 189 A; 102 C; 140 G; 159 T; 4 other;
+     cccacgcgtc cgaaagngna taaaagtagn aacgnaaatg gttgctttct ctgacaagca        60
+     agagggtttg gtgaatggcg catatgaagc attcaaggca gacattccta aatacagtgt       120
+     tgtcttctac accacaatac tggagaaagc accagcagca aagaacctgt tctcgtttct       180
+     agctaacgga gttgatgcca ctaatcctaa gctcacgggt catgctgaaa agctttttgg       240
+     attggtgcgt gattcagctg cacaacttag agcaagtgga ggagtggtgg ctgatgctgc       300
+     acttggtgct gtgcactctc agaaagcagt gaacgatgct cagtttgtgg tggtaaaaga       360
+     agctttggtc aaaacattga aagaagcagt tggagacaaa tggagtgatg aactgggcac       420
+     tgctgtggaa ctagcctacg atgaattggc agcagctatt aaaaaagcat attaggatgc       480
+     ccattattac ttgtaataaa taaatttgtt ttaaaagaac ctgttattaa acaggttccc       540
+     catacaaatg ttgcttaaaa ataagtaaat tataaattat attgtatttg gata             594
+//
+ID   GMLBA5     standard; genomic DNA; PLN; 2107 BP.
+XX
+AC   X06438;
+XX
+SV   X06438.1
+XX
+DT   19-OCT-1988 (Rel. 18, Created)
+DT   05-NOV-1992 (Rel. 33, Last updated, Version 10)
+XX
+DE   Soybean leghaemoglobin gene lba promoter region
+XX
+KW   lba gene; leghemoglobin.
+XX
+OS   Glycine max (soybean)
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons; rosids;
+OC   eurosids I; Fabales; Fabaceae; Papilionoideae; Phaseoleae; Glycine.
+XX
+RN   [1]
+RC   revised by [3]
+RP   1504-2107
+RA   Sandal N.;
+RT   ;
+RL   Submitted (18-DEC-1987) to the EMBL/GenBank/DDBJ databases.
+RL   Sandal N., Dept. of Molecular Biology and Plant Physiology,, University of
+RL   Aarhus, C.F. Moellers Alle 130,, DK 8000 Aarhus C., Denmark.
+XX
+RN   [2]
+RP   1-604
+RA   Stougaard J., Sandal N.N., Gron A., Kuehle A., Marcker K.A.;
+RT   "5'Analysis of the soybean leghaemoglobin lbc3 gene: regulatory elements
+RT   required for promoter activity and organ specificity.";
+RL   EMBO J. 6:3565-3569(1987).
+XX
+RN   [3]
+RP   1-2107
+RA   Qunxin S.;
+RT   ;
+RL   Submitted (04-NOV-1992) to the EMBL/GenBank/DDBJ databases.
+RL   Qunxin She; Institution Laboratory of Gene Expression Dept. of Molecular
+RL   Biology, University of Aarhus, Gustav Wieds Vej 10, DK-8000 Aarhus C
+RL   Denmark
+XX
+DR   EPD; EP16005; GM_LGBA.
+XX
+CC   see x06438 - x06443 for lb genes 5' region;
+CC   see J01301, J01302 and V00415 for overlapping sequences
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2107
+FT                   /db_xref="taxon:3847"
+FT                   /mol_type="genomic DNA"
+FT                   /organism="Glycine max"
+FT                   /strain="Evans"
+FT   TATA_signal     2024..2031
+FT   CDS             2105..>2107
+FT                   /gene="lba"
+FT                   /product="leghemoglobin"
+FT                   /protein_id="CAA29744.1"
+FT                   /translation="M"
+XX
+SQ   Sequence 2107 BP; 844 A; 226 C; 225 G; 812 T; 0 other;
+     gctattagct ataatgcagc tcaagtcttg atatcaaatt agtttctttt ccaattattt        60
+     attatttaag ttaaatttca tcttctaatt ttttatggtt gaatttggtt atttaatttt       120
+     taaaatcgat caattttttg gaaaaatatt tattttgtga cgatttaaaa ttatttagtg       180
+     gcgaaatatg cagttatata taatatgtat tttcttacca tttagactga atgactaaat       240
+     tgaatcgttt taaaaaatta aaggatgaaa ttaaaaaaaa aactaaaaga ccaaattgaa       300
+     tttaaaaaat aaattagagg actaaaaaaa ttaatttaaa tttttcttat tttataaaat       360
+     aaaaatattt tttaatattt agcgaaaaaa aatagaaaat actaacttcc tacgtaatta       420
+     aaaaaataaa atctatgagt atttaaaaga atacatattt aacacatttt cttaatctat       480
+     ggatgagata gataaattaa tattacaatt gtctttcaaa gagattatat agtgtaaaag       540
+     tatttttcaa aatttcacag attaagttaa ctgtgagatc ttatattgta ttcgagtaaa       600
+     tataatttcg aatgtaattc aattaaatgt aattaccaat tcaagttgca tcatttttta       660
+     tattttaaaa caataataaa taaatattaa attacacaat aaataaaata aaaatgaagt       720
+     aaaaatatta atatcttttg tcatcataaa ttaaataact attgtaaact tggatttgaa       780
+     aactctagtt taactagaaa ttttgagttg aagttctaaa aattaagttg cattaagtaa       840
+     ttaaaaaagt tttatcattt ataattataa tgatttatag gagatttttt tttcaataaa       900
+     agatacatgt gctgaacaaa aagtctaaaa ctacatcaca actttattaa aaatgtcgga       960
+     tcatatttat tttttttatt tttattataa attatatatt tctgatatat aatatataaa      1020
+     aatataatta aaaaagcatg actttaccca gcaccaaggt gtttaaatta caaaagtccc      1080
+     actggaagaa tgagaagcca acctagtctt aatcggctaa cacatccaca aacgtcacag      1140
+     ttgtctttca tgcaccacac gaaattgcct tttatattct tcaagaaatt attgtgtaaa      1200
+     cttattttat ataatttact tatattactt ttaagaaaat aattttaaca agtattcata      1260
+     atatttagaa cggaaataaa taataaatat taaacaaaaa aaagagtttt caattaatta      1320
+     atcctaaagt aatttagttg ctgcaaaaaa aggtaattta tttttcactc attaaaaaag      1380
+     aaaataacat ataaattatt ataaaattta tgtatactga attttattta atccttatta      1440
+     ttgaagatac atttataaat aaatctctct agtgtctatt tattatttta tctggtgata      1500
+     tataccttct cgtatactgt tattttttca atcttgtaga tttacttctt ttatttttat      1560
+     aaaaaagact ttattttttt aaaaaaaata aagtgaattt tgaaaacatg ctttttgaca      1620
+     attttctgtt tcctttttca tcattgggtt aaatctcata gtgcctctat tcaataattt      1680
+     gggctcaatt taattagtag agtctacata aaatttacct taatagtaga gaatagagag      1740
+     tcttggaaag ctggtttttc tcgaggaaga aaggaaatgt taaaaactgt gatatttttt      1800
+     ttttggatta atagttatgt ttatatgaaa actgaaaata aataaactaa ccatattaaa      1860
+     tttagaacaa cacttcaatt atttttttaa tttgattaat taaaaaatta tttgattaaa      1920
+     ttttttaaaa gatcgttgtt tcttcttcat catgctgatt gacaccctcc acaagccaag      1980
+     agaaacacat aagctttggt tttctcactc tccaagccct ctatataaac aaatattgga      2040
+     gtgaagttgt tgcataactt gcatcgaaca attaatagaa ataacagaaa attaaaaaag      2100
+     aaatatg                                                                2107
+//
+LOCUS       VFLBKMR                  549 bp    mRNA    linear   PLN 17-AUG-2005
+DEFINITION  V.faba mRNA for leghemoglobin K.
+ACCESSION   Z54158
+VERSION     Z54158.1  GI:1518445
+KEYWORDS    leghemoglobin K.
+SOURCE      Vicia faba (fava bean)
+  ORGANISM  Vicia faba
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+            rosids; eurosids I; Fabales; Fabaceae; Papilionoideae; Vicieae;
+            Vicia.
+REFERENCE   1  (bases 1 to 549)
+  AUTHORS   Fruhling,M., Roussel,H., Gianinazzi-Pearson,V., Puhler,A. and
+            Perlick,A.M.
+  TITLE     The Vicia faba leghemoglobin gene VfLb29 is induced in root nodules
+            and in roots colonized by the arbuscular mycorrhizal fungus Glomus
+            fasciculatum
+  JOURNAL   Mol. Plant Microbe Interact. 10 (1), 124-131 (1997)
+   PUBMED   9002275
+REFERENCE   2  (bases 1 to 549)
+  AUTHORS   Fruehling,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-1995) Fruehling M., Universitaet Bielefeld,
+            Lehrstuhl fuer Genetik, Universitaetsstrasse 25, Bielefeld,
+            Nordrhein-Westfalen, Deutschland, 33501
+FEATURES             Location/Qualifiers
+     source          1..549
+                     /organism="Vicia faba"
+                     /mol_type="mRNA"
+                     /cultivar="Kleine Thueringer"
+                     /db_xref="taxon:3906"
+                     /clone="111-51"
+                     /tissue_type="root nodule"
+                     /clone_lib="nodule cDNA library"
+     CDS             19..459
+                     /codon_start=1
+                     /product="leghemoglobin K"
+                     /protein_id="CAA90869.1"
+                     /db_xref="GI:1518446"
+                     /db_xref="GOA:P93851"
+                     /db_xref="HSSP:1FSL"
+                     /db_xref="InterPro:IPR000971"
+                     /db_xref="InterPro:IPR001032"
+                     /db_xref="InterPro:IPR012292"
+                     /db_xref="UniProtKB/TrEMBL:P93851"
+                     /translation="MGFTEKQEALVNSSWELFKQNPGNSVLFYTIILKKAPTAKGMFS
+                     FLKDSAGVVDSPKLQAHAEKVFGMVRDSAVQLRASGEIVLGDATLGAIHIQKGVLDPH
+                     FVVVKEALLETIKEISGDKWSEELSAAWEVAYEGLAVAIKKAMS"
+ORIGIN      
+        1 aaaaaagaaa agagagaaat gggtttcact gaaaaacaag aagctttagt taatagctca
+       61 tgggaattat ttaaacaaaa ccctggcaat agtgttttgt tctataccat tatattgaaa
+      121 aaagcaccaa ctgccaaggg aatgttctct tttcttaagg attcggctgg agtagtggat
+      181 agccctaaac ttcaagccca tgctgaaaaa gtttttggaa tggtgcgtga ttcagctgtt
+      241 caacttcgag catcaggaga aattgtttta ggagatgcta cattgggtgc tattcatatt
+      301 cagaagggag ttcttgatcc ccattttgtg gtggtgaaag aagcattgtt ggaaaccata
+      361 aaggaaatat caggagacaa atggagcgaa gaattgagtg ctgcttggga agtagcctat
+      421 gaaggattgg cagttgcaat taagaaggca atgagttaaa cttgtgatga tctatattta
+      481 taaatgaatt tatgaaataa aatttgtatt actaaaactt gttaagcaag tatctataat
+      541 aaatattgt
+//
+LOCUS       S70187                  1740 bp    mRNA    linear   PLN 23-SEP-1994
+DEFINITION  ferric leghemoglobin reductase [Glycine max=soybeans, Merr,
+            nodules, mRNA, 1740 nt].
+ACCESSION   S70187
+VERSION     S70187.1  GI:546359
+KEYWORDS    .
+SOURCE      Glycine max (soybean)
+  ORGANISM  Glycine max
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+            rosids; eurosids I; Fabales; Fabaceae; Papilionoideae; Phaseoleae;
+            Glycine.
+REFERENCE   1  (bases 1 to 1740)
+  AUTHORS   Ji,L., Becana,M., Sarath,G. and Klucas,R.V.
+  TITLE     Cloning and sequence analysis of a cDNA encoding ferric
+            leghemoglobin reductase from soybean nodules
+  JOURNAL   Plant Physiol. 104 (2), 453-459 (1994)
+   PUBMED   8159785
+  REMARK    GenBank staff at the National Library of Medicine created this
+            entry [NCBI gibbsq 147990] from the original journal article.
+FEATURES             Location/Qualifiers
+     source          1..1740
+                     /organism="Glycine max"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3847"
+     gene            1..1740
+                     /gene="ferric leghemoglobin reductase, FLbR"
+     CDS             22..1593
+                     /gene="ferric leghemoglobin reductase, FLbR"
+                     /note="Method: conceptual translation with partial peptide
+                     sequencing; FLbR"
+                     /codon_start=1
+                     /product="ferric leghemoglobin reductase"
+                     /protein_id="AAB30526.1"
+                     /db_xref="GI:546360"
+                     /translation="MAMANLARRKGYAVVLSSRSSLCLTRWRGFASGSDENDVVVIGG
+                     GPGGYVAAIKAAQLGLKTTCIEKRGTLGGTCLNVGCIPSKALLHSSHMYHEAKHAFAN
+                     HGVKFSSVEVALPAMMGQKDKAVSNLTQGIDGLFQKNKVTYVKGYGKLVSPSEISVDT
+                     TEGENTVVKGKHIIIATGSDVKSLPGVTIDEKKIVSSTGALALSEIPKKLVVIGAGYI
+                     GLEMGSVWGRIGSEVTVVEFASEIVPTMDADIRKQFQRSLEKQGMKFKLKTKVVGVDT
+                     SGDGVKLTVEPSAGGEQTIIEADVVLVSAGRTPFTSGLNLDKIGVETDKLGRILVNER
+                     FSTNVSGVYAIGDVIPGPMLAHKAEEDGVACVEYLTGKVGHVDYDKVPGVVYTNPEVA
+                     SVGKTEEQVKETGVEYRVGKFPFLANSRAKAIDNAEGLVKIIAEKETDKILGVHIMAP
+                     NAGELIHEAAIALQYDASSEDIARVCHAHPTMSEAVKEAAMATYDKPHSHLKSWLLLS
+                     SLVFIFVQEFTMTWR"
+ORIGIN      
+        1 cggccgcaaa aaagaaagat catggcgatg gcaaacttgg ctcgacggaa gggttacgcc
+       61 gtcgttttgt cgtcgaggtc gtcgctttgt ctgacaaggt ggagggggtt cgcgtccgga
+      121 tctgacgaaa acgacgtcgt ggtcatcggc ggcggtcccg gcggctacgt ggcggccatt
+      181 aaagcggcgc agctgggtct gaaaaccact tgcatcgaaa aacgtggcac tctcggcggt
+      241 acctgcctca acgtcggatg catcccttcc aaggcacttt tgcattcttc ccacatgtat
+      301 catgaggcta aacatgcatt tgccaaccat ggggtcaagt tttcatctgt cgaggttgct
+      361 ttgccagcca tgatgggcca aaaagataaa gcagtttcta atcttaccca aggtattgat
+      421 ggtctatttc agaagaataa ggtaacctat gtcaaaggat atggcaaatt agtttcgccg
+      481 tctgaaatct ctgtagacac cactgaaggt gaaaatactg tggttaaggg caagcatatt
+      541 attattgcca ctggttcgga tgtgaaatct ctgcccggtg tcactattga tgaaaagaaa
+      601 attgtttcat caactggggc tcttgctttg tctgaaatcc ccaagaagct cgtagtcatt
+      661 ggggcaggct acattgggct ggaaatgggc tcagtatggg gccgaattgg ctccgaggta
+      721 acagttgttg agtttgcatc ggagattgtt ccaaccatgg atgcagacat ccggaagcag
+      781 tttcagcgtt ctcttgagaa gcaaggcatg aaattcaagc tgaagaccaa ggtggttgga
+      841 gttgatactt ctggggatgg tgtgaagcta actgttgaac catccgctgg cggtgaacag
+      901 accataattg aagcagatgt tgtccttgtt tcggctggta gaactccatt cacttctgga
+      961 cttaatttgg ataagatagg agttgagact gacaagttag gacggatttt ggtaaatgaa
+     1021 agattttcaa caaatgtctc tggtgtctat gcaatcggag atgtgattcc aggtccaatg
+     1081 ttggcacaca aggcagaaga agatggtgtt gcttgtgttg agtacttaac tggtaaggtt
+     1141 ggccatgtgg attatgacaa agtccctggc gttgtctata caaaccctga agttgcatct
+     1201 gttgggaaga cagaggagca ggtgaaggaa actggagttg aataccgtgt tggcaagttc
+     1261 ccattcctgg ctaatagcag agctaaggca attgacaatg ctgaaggact ggtgaagata
+     1321 attgctgaaa aggagacaga caagatattg ggagtgcaca ttatggcgcc taatgcagga
+     1381 gaactcattc atgaagctgc catagcacta cagtatgatg catcaagtga ggacattgca
+     1441 cgtgtgtgcc atgcacatcc aacaatgagc gaggctgtga aagaagccgc aatggccact
+     1501 tatgacaagc cgcattcaca tctaaagagc tggttgctac tttcttctct tgttttcatt
+     1561 tttgtccaag aatttacaat gacttggaga tgataccacc tctgttaaat ttagattcaa
+     1621 atttttaaat gcaaattagc cccttgttta cttgtttgca taataagagg aatggttgtg
+     1681 ttgttcttat ccttgttgaa taaattatat atctcccctt ctctctggga caatattgta
+//
+LOCUS       MSLEGBRC                2358 bp    DNA     linear   PLN 18-APR-2005
+DEFINITION  M.sativa leghemoglobin gene for leghemoglobin (clone BRC56).
+ACCESSION   X54089 S54880
+VERSION     X54089.1  GI:19631
+KEYWORDS    leghemoglobin; oxygen binding protein; transport protein.
+SOURCE      Medicago sativa
+  ORGANISM  Medicago sativa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+            rosids; eurosids I; Fabales; Fabaceae; Papilionoideae; Trifolieae;
+            Medicago.
+REFERENCE   1
+  AUTHORS   Davidowitz,E.J., Creissen,G., Vincze,E., Kiss,G.B. and
+            Lang-Unnasch,N.
+  TITLE     Sequence analysis of alfalfa (Medicago sativa) leghemoglobin cDNA
+            and genomic clones
+  JOURNAL   Plant Mol. Biol. 16 (1), 161-165 (1991)
+   PUBMED   1888894
+REFERENCE   2  (bases 1 to 2358)
+  AUTHORS   Kiss,G.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-1990) Kiss G.B., Institute of Genetics,
+            Biological Research Centre, Hungarian Academy of Sciences, Szeged
+            P.O. Box 521 H-6701, Hungary
+COMMENT     On May 17, 2005 this sequence version replaced gi:235293.
+FEATURES             Location/Qualifiers
+     source          1..2358
+                     /organism="Medicago sativa"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3879"
+                     /clone="BRC56"
+                     /tissue_type="germinating seeds"
+                     /clone_lib="alfalfa genomic library"
+     TATA_signal     143..150
+     gene            <181..>2358
+                     /gene="leghemoglobin"
+     mRNA            join(<181..320,462..573,1406..1513,1995..>2358)
+                     /gene="leghemoglobin"
+     CDS             join(181..320,462..573,1406..1513,1995..2123)
+                     /gene="leghemoglobin"
+                     /codon_start=1
+                     /product="leghemoglobin"
+                     /protein_id="CAA38024.1"
+                     /db_xref="GI:3980177"
+                     /db_xref="GOA:Q42928"
+                     /db_xref="InterPro:IPR000971"
+                     /db_xref="InterPro:IPR001032"
+                     /db_xref="UniProtKB/TrEMBL:Q42928"
+                     /translation="MQIQIAKQKQKNKKRNMGFTEKQEALVNSSFESFKQNPGYSVLF
+                     YTIILEKAPAAKGMFSFLKDSAGVQDSPKLQAHAGKVFGMVRDSAAQLRATGGVVLGD
+                     ATLGAIHIQNGVVDPHFVVVKEALLKTIKESSGDKWSEELSTAWEVAYDALATAIKKA
+                     MS"
+     exon            181..320
+                     /gene="leghemoglobin"
+                     /number=1
+     prim_transcript 182..>2358
+                     /gene="leghemoglobin"
+     intron          321..461
+                     /gene="leghemoglobin"
+                     /number=1
+     exon            462..573
+                     /gene="leghemoglobin"
+                     /number=2
+     intron          574..1405
+                     /gene="leghemoglobin"
+                     /number=2
+     exon            1406..1513
+                     /gene="leghemoglobin"
+                     /number=3
+     intron          1514..1994
+                     /gene="leghemoglobin"
+                     /number=3
+     exon            1995..>2358
+                     /gene="leghemoglobin"
+                     /number=4
+ORIGIN      
+        1 tttaaagaaa actcgtttga ttaagttttt gaaaagatta ttgtctcttt aatgttgtca
+       61 atagccattt ccacaagcca atagattcat taaaaaaata aatcacaaaa aatactacac
+      121 ctcttttcac ctctaatttt tctatataaa catgtatgga atgtacaata tattattaca
+      181 ttgcaaatac aaatagcaaa acaaaaacaa aaaaataaga agagaaatat gggtttcacc
+      241 gagaaacaag aggctttagt gaatagctca tttgaatcat ttaaacaaaa tcctggttat
+      301 agtgttttgt tctacactat gtaagtttga tatcttttga gtgtttatgt ttgtattttc
+      361 tctttttgtt aattattggt ttaaaagaga agacataaat taacaataat attgtataaa
+      421 aaaattaaca ataatatttt tggttgcttt atttaaaata gtatattgga gaaagcacct
+      481 gcagcaaagg gtatgttctc ttttcttaag gactcagctg gagtacaaga tagtcctaaa
+      541 cttcaagccc atgcaggaaa agtttttgga atggtgagtg taattaaaca tcgattaaat
+      601 tttttccttc ttttatttat tcttcattca acgacgattt tactcttaaa ataataacta
+      661 tgaaatatta ttttaaataa ctatacttcc tatttgtgtt ttattgtaac tgcatatcct
+      721 tattattttg tgcttcgtat tccactttta taaagttttg aatccccgtg tttcagtagt
+      781 ctaaattaga tattccacaa ttcttaattg ttatatcaaa acctctatta ctgttcaata
+      841 tttaactcca agatcctaca tatattcaat agaagttggc actaactcat accagattca
+      901 aaagctaata tagtcaatga agacccttca agcatgatac ttgcttgccg tataaacctt
+      961 ttcatcacgt caccatgata cttccttggc cgtgttggct tatcatgcta taacttaagt
+     1021 caacataaat ttatactcat tatggctttt agcattaaaa attactccaa tatgattaat
+     1081 ggatggagaa aaagatgata ttgacaattg tgatatctag gagacatcat ccacacaatt
+     1141 gaaatacatg aaatcaaaat ttcacaacgg cgggagattg aaaacgcaat aaaacatcta
+     1201 tttaatcaag tctaatttta ttttttacta gttggaaaga ttgttcgatt aaatatagaa
+     1261 aatgaattaa tatttttcta cttaagaata tataattaca ttatattaat aggaataata
+     1321 acaaattcta tttgtacttt ttttaatagt tttcactaac acgaaaatta ttgatcttaa
+     1381 gatatttata ccttttgaat tataggtacg cgattcagct gctcaactcc gagccacagg
+     1441 gggagtagta ttgggagatg ctaccttggg tgctatccac attcagaatg gagttgttga
+     1501 tcctcatttt gtggtatgat aaaatcatac aatatttcaa tagattcatt cttagttttt
+     1561 tttactgcct aatggcattt attctttaat tcaatattac aacaataaat aaaatccacc
+     1621 atttcatgcc actttttcat attataatat aaatattgaa aagaaattat taaagaaatt
+     1681 tatgtaaact atgtttataa agataaaatt aacaatctta tgataaaata agatttggct
+     1741 tgtctaaatt gggtagtaag taaagtgaca aataaatggt tgatattata acaaatcata
+     1801 agcggttctt caataaaata atgtgttgat attttaacca ctcatgattt ggtattcagt
+     1861 tctttaaaaa ttattgagtt gttgttattc aataaaataa ataatttttc aaaaaatatt
+     1921 ttccattttt gttaacatgc ttttttcaag tggtaaattg ttaatccaaa attaatgctt
+     1981 ttggcacctt acaggtggtt aaagaagctt tgttgaaaac aataaaggaa tcatcaggag
+     2041 ataaatggag cgaagaattg agcactgctt gggaagtagc ttatgatgca ttggcaactg
+     2101 caattaagaa ggcaatgagt taaacttggg atgatatata gttacaactc aatttataat
+     2161 aaataaaagt tgtattacta aaacttgttt aacaagtttc tataataaat attattgaaa
+     2221 tgactattaa atagttatta tatttatgct agtgcatttc ttggtaaaaa aatcccatca
+     2281 atattcaaac aactattaaa tagttattat atttgtgcta tgtgcctttt ctttaatcca
+     2341 ccaccaagag tgagtctt
+//
+ID   GMLBCS25   standard; genomic DNA; PLN; 631 BP.
+XX
+AC   X06440;
+XX
+SV   X06440.1
+XX
+DT   19-OCT-1988 (Rel. 18, Created)
+DT   10-FEB-1999 (Rel. 58, Last updated, Version 2)
+XX
+DE   Soybean leghaemoglobin gene lbc2 5'end
+XX
+KW   lbc2 gene; leghemoglobin.
+XX
+OS   Glycine max (soybean)
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons; rosids;
+OC   eurosids I; Fabales; Fabaceae; Papilionoideae; Phaseoleae; Glycine.
+XX
+RN   [1]
+RP   1-631
+RA   Stougaard J., Sandal N.N., Gron A., Kuehle A., Marcker K.A.;
+RT   "5'Analysis of the soybean leghaemoglobin lbc3 gene: regulatory elements
+RT   required for promoter activity and organ specificity.";
+RL   EMBO J. 6:3565-3569(1987).
+XX
+RN   [2]
+RP   1-631
+RA   Sandal N.;
+RT   ;
+RL   Submitted (18-DEC-1987) to the EMBL/GenBank/DDBJ databases.
+RL   Sawdal N., Dept. of Molecular Biology and Plant Physiology,, University of
+RL   Aarhus, C.F. Moellers Alle 130,, DK 8000 Aarhus C., Denmark.
+XX
+DR   EPD; EP16007; GM_LGB2.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..631
+FT                   /db_xref="taxon:3847"
+FT                   /mol_type="genomic DNA"
+FT                   /organism="Glycine max"
+FT   promoter        542..549
+FT                   /note="TATA box"
+FT   CDS             629..>631
+FT                   /note="lbcs2 start codon"
+FT                   /protein_id="CAA29746.1"
+FT                   /translation="M"
+XX
+SQ   Sequence 631 BP; 233 A; 86 C; 82 G; 230 T; 0 other;
+     gccttctcgt gctttacaca ctttaatatt attatatccc cacccccacc aaaaaaaaaa        60
+     aaactgttat atctttccag tacatttatt tcttttattt ttacaaagga aacttcacga       120
+     aagtaattac aaaaaagata gtgaacatca tttttttagt taagatgaat tttaaaatca       180
+     cactttttta tatttttttg ttaccctttt cattattggg tgaaatctca tagtgaaact       240
+     attaaatagt ttgggctcaa gttttattag taaagtctgc atgaaattta acttaataat       300
+     agagagagtt ttggaaaggt aacgaatgtt agaaagtgtg atattattat agttttattt       360
+     agattaataa ttatgtttac atgaaaattg acaatttatt tttaaaattc agagtaatac       420
+     ttaaattact tatttacttt aagattttga aaagatcatt tggctcttca tcatgccgat       480
+     tgacaccctc cacaagccaa gagaaactta agttgtaatt tttctaactc caagccttct       540
+     atataaacac gtattggatg tgaagttgtt gcataacttg cattgaacaa tagaaataac       600
+     aacaaagaaa ataagtgaaa aaagaaatat g                                      631
+//
+LOCUS       LLLHGI                   836 bp    mRNA    linear   PLN 18-APR-2005
+DEFINITION  Lupinus luteus mRNA for leghemoglobin I (LlbI gene).
+ACCESSION   X77043
+VERSION     X77043.1  GI:441458
+KEYWORDS    leghemoglobin I.
+SOURCE      Lupinus luteus (yellow lupine)
+  ORGANISM  Lupinus luteus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+            rosids; eurosids I; Fabales; Fabaceae; Papilionoideae; Genisteae;
+            Lupinus.
+REFERENCE   1
+  AUTHORS   Strozycki,P.M. and Legocki,A.B.
+  TITLE     Leghemoglobins from an evolutionarily old legume, Lupinus luteus
+  JOURNAL   Plant Sci. 110, 83-93 (1995)
+REFERENCE   2
+  AUTHORS   Strozycki,P.M., Karlowski,W.M., Dessaux,Y., Petit,A. and
+            Legocki,A.B.
+  TITLE     Lupine leghemoglobin I: expression in transgenic Lotus and tobacco
+            tissues
+  JOURNAL   Mol. Gen. Genet. 263 (2), 173-182 (2000)
+   PUBMED   10778735
+REFERENCE   3  (bases 1 to 836)
+  AUTHORS   Strozycki,P.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JAN-1994) P.M. Strozycki, Institute of Bioorganic
+            Chemistry, Polish Academy of Sciences, Noskowskiego 12/16, 61-704
+            Poznan, POLAND
+FEATURES             Location/Qualifiers
+     source          1..836
+                     /organism="Lupinus luteus"
+                     /mol_type="mRNA"
+                     /cultivar="ventus"
+                     /db_xref="taxon:3873"
+                     /clone="pSP25"
+                     /cell_type="infected"
+                     /tissue_type="nodule"
+     gene            1..836
+                     /gene="LlbI"
+     CDS             13..477
+                     /gene="LlbI"
+                     /codon_start=1
+                     /product="leghemoglobulin I"
+                     /protein_id="CAA54332.1"
+                     /db_xref="GI:441459"
+                     /db_xref="GOA:P02239"
+                     /db_xref="UniProtKB/Swiss-Prot:P02239"
+                     /translation="MGVLTDVQVALVKSSFEEFNANIPKNTHRFFTLVLEIAPGAKDL
+                     FSFLKGSSEVPQNNPDLQAHAGKVFKLTYEAAIQLQVNGAVASDATLKSLGSVHVSKG
+                     VVDAHFPVVKEAILKTIKEVVGDKWSEELNTAWTIAYDELAIIIKKEMKDAA"
+ORIGIN      
+        1 agtgaaacga atatgggtgt tttaactgat gtgcaagtgg ctttggtgaa gagctcattt
+       61 gaagaattta atgcaaatat tcctaaaaac acccatcgtt tcttcacctt ggtactagag
+      121 attgcaccag gagcaaagga tttgttctca tttttgaagg gatctagtga agtaccccag
+      181 aataatcctg atcttcaggc ccatgctgga aaggttttta agttgactta cgaagcagca
+      241 attcaacttc aagtgaatgg agcagtggct tcagatgcca cgttgaaaag tttgggttct
+      301 gtccatgtct caaaaggagt cgttgatgcc cattttccgg tggtgaagga agcaatcctg
+      361 aaaacaataa aggaagtggt gggagacaaa tggagcgagg aactgaacac tgcttggacc
+      421 atagcctatg acgaattggc aattataatt aagaaggaga tgaaggatgc tgcttaaatt
+      481 aaaacgcatc acctattgca ataaataatg aattttattt tcagtaacac ttgttgaata
+      541 agttcttata aatgttgttc aaaatgttaa tgggttggtt cacatgatcg accttccctt
+      601 aatgacaaca taattcagtt cgaaattaag gatatcttaa tattatatgt acttccacta
+      661 caaatccttg ctgaggttgg tggtttgtgt tagcctttaa attgggagag tctcccttaa
+      721 gttaaacttt tcttataata aataaatatt atttaaataa gctcattgtt tggaaggttt
+      781 acactattta atgatggaat gcgatatatt attataaaaa aaaaaaaaaa aaaaaa
+//
+LOCUS       SRSRGLB3                 409 bp    DNA     linear   PLN 18-APR-2005
+DEFINITION  Sesbania rostrata Srglb3 gene upstream region.
+ACCESSION   X13504
+VERSION     X13504.1  GI:21383
+KEYWORDS    leghemoglobin; nodulin; Srglb3 gene.
+SOURCE      Sesbania rostrata
+  ORGANISM  Sesbania rostrata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+            rosids; eurosids I; Fabales; Fabaceae; Papilionoideae; Robinieae;
+            Sesbania.
+REFERENCE   1  (bases 1 to 409)
+  AUTHORS   Metz,B.A., Welters,P., Hoffmann,H.J., Jensen,E.O., Schell,J. and de
+            Bruijn,F.J.
+  TITLE     Primary structure and promoter analysis of leghemoglobin genes of
+            the stem-nodulated tropical legume Sesbania rostrata: conserved
+            coding sequences, cis-elements and trans-acting factors
+  JOURNAL   Mol. Gen. Genet. 214 (2), 181-191 (1988)
+   PUBMED   3237206
+COMMENT     See also <X13503> and <X13505>.
+FEATURES             Location/Qualifiers
+     source          1..409
+                     /organism="Sesbania rostrata"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3895"
+                     /clone="lambda Srglb3"
+                     /tissue_type="leaf"
+                     /clone_lib="lambda EMBL4"
+     promoter        238..242
+                     /note="CAAT-box"
+     promoter        306..309
+                     /note="TATA-box"
+     precursor_RNA   337..>337
+                     /note="pot. primary transcript"
+     mRNA            337..>337
+                     /note="pot. exon 1"
+     misc_feature    341
+                     /note="pot. alt. transcription start site"
+     CDS             385..>409
+                     /note="unnamed protein product; leghemoglobin (AA 1-8)
+                     (409 is 1st base in codon)"
+                     /codon_start=1
+                     /protein_id="CAA31858.1"
+                     /db_xref="GI:579482"
+                     /db_xref="GOA:P10816"
+                     /db_xref="UniProtKB/Swiss-Prot:P10816"
+                     /translation="MGFTEKQE"
+ORIGIN      
+        1 tcactcttta ttactagaat taacacagga tttcactaaa taatagtttt ttttataaaa
+       61 agatattgct tccttgaaaa aaagatgttt gtaaaaattt ttagaataat aattacatta
+      121 attaaaaact gaaaaaaata ttaaatgttt tgaagttttc aataattttt aaattattaa
+      181 ttaaattttt aaaaagatta ttgtctctta ataatgtcaa tggccaccct tcaggagcca
+      241 agagtttctt tcaatgacaa tcacaaggaa tcaactccat ctctttgcac tctctcaccc
+      301 tcctatataa acaagtattg gatggaaaat tattgcatac atcggagaat aaaaataaca
+      361 aaaaggtaaa aaaaacaaaa ataaatgggt ttcacagaga aacaggagg
+//
+ID   GMLBPS15   standard; genomic DNA; PLN; 607 BP.
+XX
+AC   X06442;
+XX
+SV   X06442.1
+XX
+DT   19-OCT-1988 (Rel. 18, Created)
+DT   27-JUN-1994 (Rel. 40, Last updated, Version 3)
+XX
+DE   Soybean leghaemoglobin lbps1 pseudogene 5'end
+XX
+KW   lbps1 gene; leghemoglobin; pseudogene.
+XX
+OS   Glycine max (soybean)
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons; rosids;
+OC   eurosids I; Fabales; Fabaceae; Papilionoideae; Phaseoleae; Glycine.
+XX
+RN   [1]
+RP   1-90, 270-607
+RA   Stougaard J., Sandal N.N., Gron A., Kuehle A., Marcker K.A.;
+RT   "5'Analysis of the soybean leghaemoglobin lbc3 gene: regulatory elements
+RT   required for promoter activity and organ specificity.";
+RL   EMBO J. 6:3565-3569(1987).
+XX
+RN   [2]
+RP   1-607
+RA   Sandal N.;
+RT   ;
+RL   Submitted (18-DEC-1987) to the EMBL/GenBank/DDBJ databases.
+RL   Sawdal N., Dept. of Molecular Biology and Plant Physiology,, University of
+RL   Aarhus, C.F. Moellers Alle 130,, DK 8000 Aarhus C., Denmark.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..607
+FT                   /db_xref="taxon:3847"
+FT                   /mol_type="genomic DNA"
+FT                   /organism="Glycine max"
+FT   misc_feature    1..607
+FT                   /note="pseudogene"
+XX
+SQ   Sequence 607 BP; 229 A; 85 C; 69 G; 224 T; 0 other;
+     attaaatagt tcgagctcaa acttttatta gtagaagtct gtatatagtt taactttaat        60
+     aacagagacc cttagaaaag caatgttaaa gcctactgaa ctttttttcc catcatatta       120
+     tatatgtgaa aattaatctt cggtgtgtgt aacttataac ttttacgtct taattaacca       180
+     catttttttt atatctacaa ggttttactc caagatctta cttaaagact ttaaatttaa       240
+     ttttactcaa atcaatgata tatattttgg taactttttt tcttttactt ataattttgt       300
+     ttacgttaaa agtcaaaaaa gaatacatta aaaaattaaa aattcaccga acaacttaaa       360
+     ttatttattt actttgacta agtgaaaaat tacttgatta agtttttgaa aaggtcgttg       420
+     tgtcttcata atgccgattg atacgctcca cattcaataa gccaagagag acatattcaa       480
+     taacaatcgc aacaaatttt ttttttcagt ctccaaacca tctatataaa caagtattgg       540
+     atgtgaactt ataactggat tgaaaataga aattaaataa cagaaaatta caaaagatcg       600
+     aaatatg                                                                 607
+//
+ID   MTLB1      standard; genomic DNA; PLN; 3200 BP.
+XX
+AC   X57732;
+XX
+SV   X57732.1
+XX
+DT   01-OCT-1991 (Rel. 29, Created)
+DT   18-APR-2005 (Rel. 83, Last updated, Version 4)
+XX
+DE   M.truncatula Mtlb1 gene for leghemoglobin
+XX
+KW   leghemoglobin.
+XX
+OS   Medicago truncatula (barrel medic)
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons; rosids;
+OC   eurosids I; Fabales; Fabaceae; Papilionoideae; Trifolieae; Medicago.
+XX
+RN   [1]
+RP   1-3200
+RA   Barker D.G.;
+RT   ;
+RL   Submitted (08-FEB-1991) to the EMBL/GenBank/DDBJ databases.
+RL   D.G. Barker, Laboratoire de Biologie Moleculaire des Relations,
+RL   Plantes-Microorganismes, INRA/CNRS, BP27, 31326 castanet-tolosan cedex,
+RL   France
+XX
+RN   [2]
+RP   1-3200
+RX   PUBMED; 1883994.
+RA   Gallusci P., Dedieu A., Journet E.P., Huguet T., Barker D.G.;
+RT   "Synchronous expression of leghaemoglobin genes in Medicago truncatula
+RT   during nitrogen-fixing root nodule development and response to exogenously
+RT   supplied nitrate.";
+RL   Plant Mol. Biol. 17(3):335-349(1991).
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..3200
+FT                   /db_xref="taxon:3880"
+FT                   /mol_type="genomic DNA"
+FT                   /organism="Medicago truncatula"
+FT                   /cultivar="Jemalong"
+FT   CDS             join(445..539,669..780,1872..1979,2699..2827)
+FT                   /db_xref="GOA:P27992"
+FT                   /db_xref="HSSP:1FSL"
+FT                   /db_xref="InterPro:IPR000971"
+FT                   /db_xref="InterPro:IPR001032"
+FT                   /db_xref="InterPro:IPR012292"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P27992"
+FT                   /gene="MTlb1"
+FT                   /product="leghemoglobin"
+FT                   /protein_id="CAA40899.1"
+FT                   /translation="MSFTDKQEALVNSSYEAFKQNLSGYSVFFYTVILEKAPAAKGLFS
+FT                   FLKDSAGVQDSPQLQAHAEKVFGLVRDSASQLRATGGVVLGDAALGAIHIQKGVVDPHF
+FT                   VVVKEALLKTIKEAAGDKWSEELSTAWEVAYDALATEIKKAMS"
+FT   mRNA            join(398..539,669..780,1872..1979,2699..>2827)
+FT                   /evidence=EXPERIMENTAL
+FT                   /gene="MTlb1"
+FT   exon            398..539
+FT                   /number=1
+FT   exon            669..780
+FT                   /number=2
+FT   exon            1872..1979
+FT                   /number=3
+FT   exon            2699..2827
+FT                   /number=4
+FT   intron          540..668
+FT                   /number=1
+FT   intron          781..1871
+FT                   /number=2
+FT   intron          1980..2698
+FT                   /number=3
+FT   misc_feature    244..281
+FT                   /note="put. regulatory element"
+FT   TATA_signal     369..374
+XX
+SQ   Sequence 3200 BP; 1123 A; 448 C; 439 G; 1190 T; 0 other;
+     acaaacctag aaaatcaaat ttcattggaa aaatctcata aaaaatgata aaatattgtc        60
+     attttataac ataaaagact aaatcgttac aaaaaaaaga taaaggagcg aaaatgttac       120
+     ctaaaattaa gttaagggac taattatgta attttgccaa attttaaagt tactatcttc       180
+     gagctcgagc tcccctctat tgtagccgaa aaagggtatt attttattta attgtaattt       240
+     atttgcttaa gtttttgaaa agttttttgt ctcttaataa ctacaatggt cacctccaca       300
+     agccattata ttctttaaaa atagaattac aataaaataa tacacctctt tgcacctcaa       360
+     actttctata taaacaaagg atgcatgtaa ctttattgca ttcaaaatac aaataataaa       420
+     acaaaaacaa gaaaagagag aaatatgagt ttcactgata aacaggaggc tttagtcaat       480
+     agctcatatg aggcattcaa acaaaacctt tctggttata gtgttttttt ctacactgtg       540
+     taagttttat ctctcgtgag attttttatt tgtttttgtc ctttatgttt attgtctttt       600
+     taagaaagat acaatgtaaa tgtaaattaa ttagcaaaaa tatgttttat tttattttat       660
+     taaaatagca tattagagaa agcacctgcg gcaaaaggct tgttctcttt tcttaaggac       720
+     tcagctggag tacaagatag tcctcaactc caagctcacg ctgaaaaagt ttttggactg       780
+     gtaagtataa tcttacatca attaattttt tttcctttta ttcttacagt aatgtcaatg       840
+     attttcttga cattaataat tatgaaatct ttttttcttt tggttacata attatgaaaa       900
+     cttactttta ttttcttact ttaaaatttt aagttgatta acatgatcca tataattata       960
+     ttaagagaat ttgcaagtta gtttaagatt tattttaggt aatgttactt cttatatgcg      1020
+     tatggcagta cttgtgtatc attatttatt taatacgtat atataatagg tgtaaaaaaa      1080
+     aagttccata aaattttgga tcctcatgtt ttattgttgc aaattaaatc ttccaagtat      1140
+     ctcagtcgct acatgcctac atcaaattct taacaaacat ttttaacttc catctatctc      1200
+     aatcgccaca tcaaactctt tacaaccgtt tttaactcta ggagcctaca tcaccaatca      1260
+     aagttggcat caactatccc atgagtttaa ctcgtaagaa caatgcacat atggaagatt      1320
+     tagagtttga acctcgaaca ccgcaaaaaa aaaaatcaac accaacttca aaagttaatg      1380
+     tggtcaaata aggtctttca ttcctaataa tttatatagc agatgcccac aaatactttc      1440
+     atcaagttgc taagatattt atttggtcta tgttatactt ttaatatgta gcttaaatca      1500
+     acatcaactt agagtcatgt ttgctcttgt cttaaaatat tagatgatta atggatggag      1560
+     tgccacaata ttaattgttg caatttgtga tatctaggag acccaattaa cataattgag      1620
+     atatagaaga caaaaattcc acaattggaa gaagagactt gattaatatt cgttaaatat      1680
+     ttttactagt tggaaaattg ttcagttcaa attataaata gaaccaatac tttatttctt      1740
+     gtgttttttt ttaaggatac ttccgttcta gtaataagaa taatgttaaa ttcgattagt      1800
+     atatttttta acaactttcc ttgattaaca tagttatcaa cctaaaaata tttttaactt      1860
+     ttaaattata ggtgcgtgat tcagcttctc aacttcgagc aacaggggga gtagttttgg      1920
+     gagatgctgc gttgggtgct atccacattc agaagggagt tgttgatcct cattttgtgg      1980
+     tatgacaaca tgtcaaatat ttttgtagat gtattttaat tttatttttt tgcatcccct      2040
+     aattcaataa tacaaagata aataagcata tttcatgcca ctttttatat tatgatatgg      2100
+     aagtaaatat ttcatgccac tttttattat ctggaagtgt gctcctcctc gagatctccg      2160
+     gttcgattct ctctggtgtt aatttggatg ggctaattta gcttcttcaa ataataatat      2220
+     aaactcaatg gatttactaa aattctaaaa agaattgtgg atttttgtga tttagttgtt      2280
+     tttgttcagt attatttact ctgttttata attactttta ttttaaatta taaatagtta      2340
+     ctgtctatca aattttatat ctaaaaaatg tttcagtctg ttgttttttc cttcttcttc      2400
+     cgggaactac atttgttact ttttcaagac taaaagccaa tgatccatat tgaaacaaat      2460
+     atcaataatt taatctatat atttgttatg acaaaaaaaa ttatttaaat ttacaattga      2520
+     ctgtgttctg tcaattaata aggaggtaaa aatagaaaaa taatactaaa aatatattaa      2580
+     tagttctttt atttgaaaat taattagttt tcaataaata ctttccattt gtattaacat      2640
+     acctatttta taagtgttaa atcactaatc caaagttaat gtttttggtg tcgtacaggt      2700
+     ggttaaagag gctttgctca agacaataaa agaagcagca ggagacaaat ggagtgaaga      2760
+     acttagcact gcttgggaag tagcttatga tgcactggca actgaaatta aaaaagcaat      2820
+     gagttaaaca tgtgatgatc tattatcata aaaagattaa taaataaaat atgtattact      2880
+     aaaacttgtt aaacaagttc ctataataaa ttatgataaa aatatttatg aaatattgtt      2940
+     actttgttag tgtttatgtc ggtgaatctc ttagtcaaat ccctaataaa acccaagtca      3000
+     aagagtacgt gtgttctatc acaatgtcta ttatattagt gaggtacaca taaaattcta      3060
+     aggcattctt caatatcaca aaaaatcaaa tttttatttc ttctgaagtg gccaattggt      3120
+     cccatcatag taaaaaatta cagtcatatt agtaaacacc ttataatggt gtcatttagt      3180
+     ttagaagttt cgccaatgtt                                                  3200
+//
+ID   MTLB2      standard; genomic DNA; PLN; 2126 BP.
+XX
+AC   X57733;
+XX
+SV   X57733.1
+XX
+DT   01-OCT-1991 (Rel. 29, Created)
+DT   18-APR-2005 (Rel. 83, Last updated, Version 4)
+XX
+DE   M.truncatula Mtlb2 gene for leghemoglobin
+XX
+KW   leghemoglobin.
+XX
+OS   Medicago truncatula (barrel medic)
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons; rosids;
+OC   eurosids I; Fabales; Fabaceae; Papilionoideae; Trifolieae; Medicago.
+XX
+RN   [1]
+RP   1-2126
+RA   Barker D.G.;
+RT   ;
+RL   Submitted (08-FEB-1991) to the EMBL/GenBank/DDBJ databases.
+RL   D.G. Barker, Laboratoire de Biologie Moleculaire des Relations,
+RL   Plantes-Microorganismes, INRA/CNRS, BP27, 31326 castanet-tolosan cedex,
+RL   France
+XX
+RN   [2]
+RP   1-2126
+RX   PUBMED; 1883994.
+RA   Gallusci P., Dedieu A., Journet E.P., Huguet T., Barker D.G.;
+RT   "Synchronous expression of leghaemoglobin genes in Medicago truncatula
+RT   during nitrogen-fixing root nodule development and response to exogenously
+RT   supplied nitrate.";
+RL   Plant Mol. Biol. 17(3):335-349(1991).
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2126
+FT                   /db_xref="taxon:3880"
+FT                   /mol_type="genomic DNA"
+FT                   /organism="Medicago truncatula"
+FT                   /cultivar="Jemalong"
+FT   CDS             join(465..556,665..776,1228..1335,1637..1765)
+FT                   /db_xref="GOA:P27993"
+FT                   /db_xref="HSSP:1FSL"
+FT                   /db_xref="InterPro:IPR000971"
+FT                   /db_xref="InterPro:IPR001032"
+FT                   /db_xref="InterPro:IPR012292"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P27993"
+FT                   /gene="MTlb2"
+FT                   /product="leghemoglobin"
+FT                   /protein_id="CAA40900.1"
+FT                   /translation="MGFTEKQEALVNSSWELFKQNPGNSVLFYTIILEKAPAAKGMFSF
+FT                   LKDTAGVQDSPKLQSHAEKVFGMVRDSAVQLRATGGVVLGDATLGAIHIQKGVVDPHFV
+FT                   VVKEALLKTIKEVSGDKWSEELSTAWEVAYDALAAAIKKAMG"
+FT   mRNA            join(412..556,665..776,1228..1335,1637..>1765)
+FT                   /evidence=EXPERIMENTAL
+FT                   /gene="MTlb2"
+FT   exon            412..556
+FT                   /number=1
+FT   exon            665..776
+FT                   /number=2
+FT   exon            1228..1335
+FT                   /number=3
+FT   exon            1637..>1765
+FT                   /number=4
+FT   intron          557..664
+FT                   /number=1
+FT   intron          777..1227
+FT                   /number=2
+FT   intron          1336..1636
+FT                   /number=3
+FT   misc_feature    255..293
+FT                   /note="put. regulatory element"
+FT   TATA_signal     383..388
+XX
+SQ   Sequence 2126 BP; 818 A; 267 C; 306 G; 735 T; 0 other;
+     actatataac tccacaaaaa tataattaat aaaattattt tagtaaatga aactcatttt        60
+     gttattaaaa tcaaaataac tcacattatt aaaattgggc acaactcaag tgaaatattc       120
+     accatgagac gaggagaata attattttta ttagattaat taataattac attgattaaa       180
+     tcaagttaaa caatactttc attaatgatt agttttttat ttaaaatatt tattaacttc       240
+     aatgaaaact tgttagatta agttttttaa atgattattg tctctttaat aatgtcaaca       300
+     gccatttcca caagccaata gattctttaa aaaaaaaatc ataaaaaatc aattgcatct       360
+     cttttcacct ccaagttttc tatataaaca agtattgaat gtacaattaa tacatagcaa       420
+     atacaaatag caaaaataaa aacaaaaaga agaagaaaag agatatgggt tttacagaga       480
+     aacaagaggc tttagtgaat agctcatggg aattatttaa acaaaaccct ggtaatagtg       540
+     ttttgttcta cactatgtaa gtttgatata tttttttgtg tttgtgtttt cactttccgt       600
+     taattgtcag tttgaaagag attgtgtaag ttaaagaata atttggttat tttgattgaa       660
+     atagtatatt ggagaaagcc cctgcagcaa agggcatgtt ctcttttctt aaggacacag       720
+     ctggagtaca agatagtcct aaactccaaa gtcatgctga aaaagttttt ggaatggtga       780
+     gtgtaattaa cataaattaa taactatgaa tatacttctt atttgttttt tattgtaata       840
+     gtttatactt atattttttc tgttaggaca aatctatcat tatatatgca ataccttcat       900
+     tccatttagt gtcataacta tccaaattat aaaaaaaaat aaaaaaatca catgtttcaa       960
+     tagtgcaaat tagatcttcc acaaatctcg attgttataa taaaattatg tattaccttc      1020
+     tcatttttaa gttcacgatc ctacatatga ccaatagtgt aaatttgatc ttccacaaat      1080
+     ctcgattgtt ataatcagaa aatggattga taattttctt cttaataaaa tataatcaca      1140
+     ttataataat agcaataata aatgattata ttttttatta acatggacat tatcaatcat      1200
+     aagatatttc tactttttga attataggtg cgcgattcag ctgttcaact ccgagcaaca      1260
+     gggggagtag ttttgggaga tgctacattg ggtgcaatcc acattcagaa aggagtggtt      1320
+     gatccacatt ttgtggtaaa tattttaaag gatgtgttct taagtttttt tttactgcgt      1380
+     ggttatttat tccataattc aataaaataa caataaataa gaaacttcca tttcatacca      1440
+     catttttata ttatgataaa aaaaaaaata atagtggaat cataagctat aactaaagaa      1500
+     aattatgtac aattaaattt ggaagataaa acaatagtaa tatataaaac atgatttgat      1560
+     tagtcgatat tgtaacatac atagtttcta agtgttaaat cgttaatcca aagttaatgt      1620
+     atttggtgtc ttgcaggtgg ttaaagaagc tttgctgaaa acaataaagg aagtatcagg      1680
+     agataaatgg agcgaagaat tgagcactgc ttgggaagta gcctatgatg cattggcagc      1740
+     tgcaattaag aaggcaatgg gttaaatttg ggatgatcta gttataaatc aattcaataa      1800
+     ataaaaaatg tattactaaa acttgtttaa caagtttcta taataaatgt tgactattaa      1860
+     atattgtttg tgtttatgct actatatctc tttataaaaa ctccctaata aaaacctaat      1920
+     tctaaaaggg ctgaaactag tcaaatagta tcttcttgta tggtttctga aaggaaaaat      1980
+     aatagatgaa agaaagtgaa aagaaagaaa gtgagaagaa aggaatcgca agcagatccc      2040
+     atccaacatg tttctatcca atttgaacaa aaataaatct acccaacatg tttcattctt      2100
+     ttttatttcg acgacgcaaa acaagg                                           2126
+//
+ID   PSNOD6MR   standard; mRNA; PLN; 356 BP.
+XX
+AC   X63699;
+XX
+SV   X63699.1
+XX
+DT   17-FEB-1992 (Rel. 31, Created)
+DT   05-MAY-1995 (Rel. 43, Last updated, Version 13)
+XX
+DE   P.sativum PsNOD6 mRNA for nodulin
+XX
+KW   late nodulin; nodulin.
+XX
+OS   Pisum sativum (pea)
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons; rosids;
+OC   eurosids I; Fabales; Fabaceae; Papilionoideae; Vicieae; Pisum.
+XX
+RN   [1]
+RP   1-356
+RA   Kardailsky I.V.;
+RT   ;
+RL   Submitted (31-JAN-1992) to the EMBL/GenBank/DDBJ databases.
+RL   I.V. Kardailsky, John Innes Inst, Colney Lane, Norwich NR4 7UH, UK
+XX
+RN   [3]
+RP   1-356
+RX   PUBMED; 1813810.
+RA   Kardailskii I.V., Govers F., Bisseling T., Tikhonovich I.A.,
+RA   Zalenskii A.O.;
+RT   "Green pea (pisum sativum) genes coding for the symbiosis with
+RT   nitrogen-fixing bacteria II nucleotide sequence of cDNA and of a portion of
+RT   the late nodulin gene (PsNod6)";
+RL   Mol. Biol. (Mosk.) 25(6):1683-1687(1991).
+XX
+RN   [4]
+RP   1-356
+RX   PUBMED; 8260623.
+RA   Kardailsky I., Yang W.C., van Kammen A., Bisseling T.;
+RT   "The pea late nodulin gene PsNOD6 is homologous to the early nodulin genes
+RT   PsENOD3/14 and is expressed after the leghaemoglobin genes.";
+RL   Plant Mol. Biol. 23(5):1029-1037(1993).
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..356
+FT                   /db_xref="taxon:3888"
+FT                   /mol_type="mRNA"
+FT                   /organism="Pisum sativum"
+FT                   /cultivar="Rondo"
+FT                   /dev_stage="21-day nodule"
+FT                   /tissue_type="late symbiotic zone"
+FT                   /cell_type="infected cells"
+FT                   /clone="pPsNOD6"
+FT   CDS             <1..145
+FT                   /codon_start=2
+FT                   /db_xref="GOA:Q7DM33"
+FT                   /db_xref="InterPro:IPR009810"
+FT                   /db_xref="UniProtKB/TrEMBL:Q7DM33"
+FT                   /gene="PsNOD6"
+FT                   /product="nodulin"
+FT                   /protein_id="CAA45226.1"
+FT                   /translation="LLLIAENVHGAKVKCKKNGDCPKLPHMFPIIYRCYQQECTLVRVL
+FT                   DS"
+FT   polyA_signal    264..269
+FT   polyA_signal    274..279
+FT   polyA_site      314
+XX
+SQ   Sequence 356 BP; 159 A; 42 C; 49 G; 106 T; 0 other;
+     tctcttgctt attgcagaaa atgttcatgg ggcaaaagta aaatgtaaaa agaatggtga        60
+     ttgtccaaaa ttaccccaca tgtttcctat tatttatagg tgctaccagc aagagtgtac       120
+     cctggttaga gtattagact cttagatcac acaaacaaac gctattttgg gaagaaagag       180
+     ttctcgtatt agaaaataaa gtatatgcat aatttcatac tagcatatta aagaacttat       240
+     ggctttgtat tttaagatgt ggtaataaat ttaaataaaa tattaaacaa tattataatt       300
+     aaattatctt ctctaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaa           356
+//
+ID   PSNOD6G    standard; genomic DNA; PLN; 1757 BP.
+XX
+AC   X63700;
+XX
+SV   X63700.1
+XX
+DT   17-FEB-1992 (Rel. 31, Created)
+DT   05-MAY-1995 (Rel. 43, Last updated, Version 7)
+XX
+DE   P.sativum PsNOD6 gene for nodulin
+XX
+KW   late nodulin; nodulin.
+XX
+OS   Pisum sativum (pea)
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons; rosids;
+OC   eurosids I; Fabales; Fabaceae; Papilionoideae; Vicieae; Pisum.
+XX
+RN   [1]
+RP   1-1757
+RA   Kardailsky I.V.;
+RT   ;
+RL   Submitted (31-JAN-1992) to the EMBL/GenBank/DDBJ databases.
+RL   I.V. Kardailsky, John Innes Inst, Colney Lane, Norwich NR4 7UH, UK
+XX
+RN   [3]
+RP   1-1757
+RX   PUBMED; 1813810.
+RA   Kardailskii I.V., Govers F., Bisseling T., Tikhonovich I.A.,
+RA   Zalenskii A.O.;
+RT   "Green pea (pisum sativum) genes coding for the symbiosis with
+RT   nitrogen-fixing bacteria II nucleotide sequence of cDNA and of a portion of
+RT   the late nodulin gene (PsNod6)";
+RL   Mol. Biol. (Mosk.) 25(6):1683-1687(1991).
+XX
+RN   [4]
+RP   1-1757
+RX   PUBMED; 8260623.
+RA   Kardailsky I., Yang W.C., van Kammen A., Bisseling T.;
+RT   "The pea late nodulin gene PsNOD6 is homologous to the early nodulin genes
+RT   PsENOD3/14 and is expressed after the leghaemoglobin genes.";
+RL   Plant Mol. Biol. 23(5):1029-1037(1993).
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1757
+FT                   /db_xref="taxon:3888"
+FT                   /mol_type="genomic DNA"
+FT                   /organism="Pisum sativum"
+FT                   /cultivar="Feltham First"
+FT                   /dev_stage="young plants"
+FT                   /tissue_type="leaves"
+FT                   /clone_lib="genomic in EMBL3 lambda vector"
+FT                   /clone="p6-2SE4.3"
+FT   misc_feature    1012..1022
+FT                   /note="Organ-specific-expression (OSE) - box"
+FT   TATA_signal     1179..1184
+FT   exon            1211..1314
+FT                   /number=1
+FT   prim_transcript 1211..1698
+FT   CDS             join(1230..1314,1418..1530)
+FT                   /db_xref="GOA:Q43622"
+FT                   /db_xref="InterPro:IPR009810"
+FT                   /db_xref="UniProtKB/TrEMBL:Q43622"
+FT                   /product="nodulin"
+FT                   /gene="PsNOD6"
+FT                   /protein_id="CAA45227.1"
+FT                   /translation="MAKILKCVFVYAIILVFFLLLIAENVHGAKVKCKKNGDCPKLPHM
+FT                   FPIIYRCYQQECTLVRVLDS"
+FT   intron          1315..1417
+FT                   /number=1
+FT   exon            1418..1698
+FT                   /number=2
+FT   polyA_signal    1649..1654
+FT   polyA_signal    1659..1664
+FT   polyA_site      1698
+XX
+SQ   Sequence 1757 BP; 676 A; 216 C; 221 G; 644 T; 0 other;
+     aattctccta atagtaagat gcagatttag aattagagaa taccgtccaa tatacataaa        60
+     tgttaaactt taatagtttt gacatcatac aaaacaattc taataggaag ttgcactcac       120
+     ataaactacc atacttttcg aaatttccga taaactaaaa tatttttcga aatttccgat       180
+     aaactaaagc acttaaaaaa attcttatag aatatgaact accgaaaatt ttaaaaatcc       240
+     agaaaaataa ggcaggtatt ggatttatca aagaacatgg taggttaatt ttataaaaaa       300
+     aaacgataaa aaattatatc gacaattcaa aatgaactat taaaatttgg cctgttgtcg       360
+     aatatttgaa taaactacct gaaatttcat tcacatttta actcaaattt gtctatgaaa       420
+     aatttaagaa ttataaaaat atatggagtg ttaggttcaa ttgagaatga caagttaaat       480
+     cctcattttc ttattattta tatagttaca agggtgatag gtatgatttt gttggtttaa       540
+     tattgtacca atataattga gatgttagtc aactataatg ataattatgt cttttcactt       600
+     ctaatttttg gcttttaatt aaaataaatc actttaaaaa aacaattttt gcaaacaatt       660
+     aatgtacact tttttttatc tatcaatata ctttttttag ggatgaatca atagcaaaat       720
+     ttcaacgaga agactacaaa aattctaatc tatttgtata tcaatgtgaa tcaaataatt       780
+     gatgtgaatg ggaatacaag agaaatcata aaactacatt gatgtttagt cataatcatc       840
+     aaataattat attaaaaaaa aatcctatga taattttagc ttgtgcataa ctctgttgtt       900
+     acaccaattg taaagtatcc gcaaagaaaa ctttttcatg gcccaaacct ttctaaaaag       960
+     aatccctttt ctattgtgaa agggtgaaaa gttattaaaa actataataa gttttaatga      1020
+     ttagcaagtt gttttagtcc ttatttagtg taataaaggc aaaccaacat aataatttat      1080
+     cagagacgtt tgttaagtgt gctaaaggga caaacatagc aaaatggtct atttaattgc      1140
+     taaaatatat ttttttttaa tttattatct ttatgcacta taaagtgaac aaatatattc      1200
+     tttttgttac ataaaaaaag aaaataaata tggctaaaat tctcaaatgt gtttttgttt      1260
+     atgcaataat tttagttttt tttctcttgc ttattgcaga aaatgttcat gggggtcagc      1320
+     tatttcttta tcttttcaaa ttatcttgta tactttatat tatttacaca ttatttgatc      1380
+     ttactttaac aatatttttt ctactttttg attacagcaa aagtaaaatg taaaaagaat      1440
+     ggtgattgtc caaaattacc ccacatgttt cctattattt ataggtgcta ccagcaagag      1500
+     tgtaccctgg ttagagtatt agactcttag atcacacaaa caaacgctat tttgggaaga      1560
+     aagagttctc gtattagaaa ataaagtata tgcataattt catactagca tattaaagaa      1620
+     cttatggctt tgtattttaa gatgtggtaa taaatttaaa taaaatatta aacaatatta      1680
+     taattaaatt atcttctctt tcaatttaga cacataatgt agataaatat tttcattagc      1740
+     atagcaaaat ggtctag                                                     1757
+//
+LOCUS       PTLEHG                   651 bp    mRNA    linear   PLN 18-APR-2005
+DEFINITION  P.tetragonolobus mRNA for leghemoglobin.
+ACCESSION   X65874
+VERSION     X65874.1  GI:20952
+KEYWORDS    leghemoglobin.
+SOURCE      Psophocarpus tetragonolobus (winged bean)
+  ORGANISM  Psophocarpus tetragonolobus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+            rosids; eurosids I; Fabales; Fabaceae; Papilionoideae; Phaseoleae;
+            Psophocarpus.
+REFERENCE   1  (bases 1 to 651)
+  AUTHORS   Manen,J.F. and Simon,P.
+  TITLE     A possible explanation for the multiple polyadenylation sites in
+            transcripts coding for a winged-bean leghemoglobin
+  JOURNAL   Planta 191 (2), 289-292 (1993)
+   PUBMED   7764023
+REFERENCE   2  (bases 1 to 651)
+  AUTHORS   Manen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-1992) J. Manen, Jardin Botanique, Universite' de
+            Geneve, 1 Ch de l'Imperatrice, 1292 Chambesy/Geneve, SWITZERLAND
+FEATURES             Location/Qualifiers
+     source          1..651
+                     /organism="Psophocarpus tetragonolobus"
+                     /mol_type="mRNA"
+                     /cultivar="UP599"
+                     /db_xref="taxon:3891"
+                     /clone_lib="nodule cDNA"
+     CDS             56..493
+                     /codon_start=1
+                     /product="leghemoglobin"
+                     /protein_id="CAA46704.1"
+                     /db_xref="GI:20953"
+                     /db_xref="GOA:P27199"
+                     /db_xref="InterPro:IPR000971"
+                     /db_xref="InterPro:IPR001032"
+                     /db_xref="InterPro:IPR009050"
+                     /db_xref="UniProtKB/Swiss-Prot:P27199"
+                     /translation="MGGFTEKQEALVNSSYEAFKANVPQYSVVFYTSILEKAPAAKDL
+                     FPFLANGVDPTNPKLIGHAEKLFGLVHDSAAQLRAKGAVVADAALGSLHAQKGVTDPQ
+                     FVVVKEALLKTVKEAVGDKWSDELSNAWEVAYNELAAALKKAF"
+     polyA_site      616
+     polyA_site      620
+     polyA_site      635
+     polyA_site      641
+     polyA_site      651
+ORIGIN      
+        1 tccaaccaaa aaaagaaaga aacgatcaaa caaaaaagaa aaagaaaaag ggaatatggg
+       61 tggtttcaca gaaaagcaag aggctttggt gaatagctca tacgaagcat tcaaggcaaa
+      121 cgttcctcaa tacagcgttg tgttttacac gtcgatattg gagaaagcac cagcagcaaa
+      181 ggacttgttc ccatttctag ctaacggagt agaccccacc aatcctaagc tcattggcca
+      241 tgctgaaaag ctttttggat tggtgcatga ctcagcagct caacttcgag caaagggagc
+      301 agtggtggct gatgctgcac ttggttcact ccatgcccag aaaggagtca ctgatcctca
+      361 gtttgtggtg gttaaagaag cactgctgaa aacagtcaag gaggcagttg gagacaaatg
+      421 gagtgacgaa ttgagcaatg cttgggaagt agcctataat gaattggcag cagcacttaa
+      481 gaaagcattt taggatctat tgccttaaag tgtaataaat aaattttatt tccctatata
+      541 taatacttgt tattaaacaa gtgatcacca cataaatgtt ggttaaaaat aagtaaatta
+      601 tatagtatta ttggatatat aaacaatctt aatttatata tatttccatc g
+//
+

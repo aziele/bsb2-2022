@@ -1,0 +1,7 @@
+Sus scrofa	wild boar
+Mus musculus	mouse
+Pan troglodytes	chimp
+Ovis aries	sheep
+Rattus norvegicus	rat
+Bos taurus	cow
+Gallus gallus	chicken
