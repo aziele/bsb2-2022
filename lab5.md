@@ -191,7 +191,7 @@ Ponownie oblicz dystans między sekwencjami stosując jako model substytucji: `K
 6. Ile wynosi dystans między `Spectacled Bear` a `Polar Bear`.
 
 
-### Zad. 11 (Algorytmy grupowania)
+### Zad. 11 (Algorytmy grupowania) [zadanie dla chętnych]
 W programie MEGA wykonaj drzewo filogenetyczne sekwencji z poprzedniego zadania w oparciu o poniższe algorytmy, stosując metodę bootstrap z 100 pseudoreplikacjami.
 
 * największej wiarygodności (Maximum Likelihood Tree)
@@ -200,7 +200,7 @@ W programie MEGA wykonaj drzewo filogenetyczne sekwencji z poprzedniego zadania 
 Czy drzewa uzyskane tymi metodami pozwalają wyciągnąć podobne wnioski na temat spokrewnienia niedźwiedzi, co w przypadku drzewa otrzymanego metodą NJ?
 
 
-### Zad. 12 (Drzewo genów)
+### Zad. 12 (Drzewo genów) [zadanie dla chętnych]
 W pliku [tnrc6.fasta](http://www.combio.pl/files/tnrc6.fasta) znajduje się 17 sekwencji białkowych genu TNRC6 pochodzących z bezkręgowców i kręgowców. W programie MEGA utwórz drzewo filogenetyczne tych sekwencji korzystając z algorytmu Neighbor-Joining i metody boostrap (1000 replikacji). Ustaw korzeń drzewa na sekwencji muchy.
 
 1. Wymień organizmy zawierające jedną kopię genu TNRC6.
