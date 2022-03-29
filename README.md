@@ -1,6 +1,6 @@
 ## BSB2
 
-Bioinformatyka Sekwencji Hiologicznych II
+Bioinformatyka Sekwencji Biologicznych II
 
 #### Plan zajęć
 
