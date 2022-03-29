@@ -12,7 +12,7 @@ Bioinformatyka Sekwencji Biologicznych II
 | **04** | 22.03.2022 | DotPlot, BLAST | [lab4.pdf](lab4.pdf)  |
 | **05** | 29.03.2022 | Przyrównanie wielu sekwencji + filogenetyka  | [lab5](lab5.md)  |
 | **06** | 05.04.2022 | Profile sekwencji, Adnotacja funkcjonalna i metody alignment-free  | - |
-| **07** | 12.04.2022 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | -  |
+| **07** | 12.04.2022 | Zaliczenie ćwiczeń | -  |
 
 
 #### Sprawozdania
