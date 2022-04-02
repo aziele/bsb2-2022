@@ -62,7 +62,7 @@ Będąc w zakladce `Species`, kliknij na kartę `Tree`.
 Otwórz zakładkę `HMM logo`.
 
 11. Ile wynosi długość sekwencji domeny `PAZ`?
-12. Wymień aminokwas najbardziej zachowane w 72 pozycji sekwencji domeny?
+12. Wymień aminokwas najbardziej zachowane w 68 pozycji sekwencji domeny?
 
 Przejdź do zakładki `Domain organization`.
 
@@ -104,7 +104,10 @@ Otwórz rekord domeny `PAZ` w bazie InterPro (`IPR003100`).
 4. Wymień bazy domen, na podstawie których tworzony jest rekord domeny PAZ w bazie InterPro (*Contributing member database entries*).
 5. W ilu sekwencjach białkowych domena PAZ jest dostępna (zakładka `Proteins`)?
 6. Ile jest różnych układów domen (`Domain architectures`), w których występuje domena PAZ?
-7. Wymień trzy szlaki biochemiczne (`Pathways`), w które zaangażowana jest domena PAZ
+7. Czy domena PAZ występuje częściej u Eukaryota czy Prokaryota (zakładka `Species`)?
+8. Ile jest znanych struktur przestrzennych białek zawierających domenę PAZ (zakładka `Structures`)?
+9. Ile jest przewidzianych struktur przestrzennych białek z domeną PAZ (zakładka `AlphaFold`)?
+10. Wymień trzy szlaki biochemiczne (`Pathways`), w które zaangażowana jest domena PAZ
 <br><br>
 
 
